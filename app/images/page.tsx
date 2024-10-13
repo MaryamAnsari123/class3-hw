@@ -33,7 +33,7 @@ export default function images(){
                
                     src="/img/m1.jpeg" // Path to your logo in the public folder
                     alt="pic1"
-                    width={150} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
