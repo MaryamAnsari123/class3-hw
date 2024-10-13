@@ -96,7 +96,7 @@ export default function biryani(){
                             after removing lid, it means biryani has reached dum stage, if not continue to cook.</li>
                             <li>Serve Pakistani Chicken Biryani right after dum with salads &#128525;</li>
                     </ol>
-                    <div className="space-x-2">
+                    <div className="space-x-2 flex mt-4">
                     <Image 
                
                     src="/img/b1.jpeg" // Path to your logo in the public folder
