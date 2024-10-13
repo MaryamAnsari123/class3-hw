@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function recipes() {
     return(
-        <div className="mt-7 mb-7 justify-center items-center text-center bg-sky-200 ml-96 mr-96">
+        <div className="mt-7 mb-7 justify-center items-center text-center bg-sky-200">
             <h1 className="text-4xl p-5 text-white font-bold bg-sky-500">Recipes:</h1>
             <ul className="space-y-2 p-6 text-base font-bold">
                 <li>
