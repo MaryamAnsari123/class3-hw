@@ -4,7 +4,7 @@ export default function images(){
     return (
         <div className="mt-8 mb-8">
             <h1 className="bg-gradient-to-l to-orange-300 from-cyan-400 text-4xl p-5 text-blue-600 font-bold text-center">Images</h1>
-            <div className="space-x-2 mb-5">
+            <div className="space-x-2 space-y-2">
                     <Image 
                  
                     src="/img/b1.jpeg" // Path to your logo in the public folder
