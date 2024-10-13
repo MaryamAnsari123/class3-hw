@@ -7,13 +7,13 @@ return (
             Whether you are a seasoned chef or just starting your culinary journey, <br /> 
             our goal is to make cooking accessible, fun, and enjoyable for everyone.
             </p>
-            <div className="text-center flex-auto">
+            <div className="text-center">
             <h2 className="bg-gray-400 text-xl p-3 text-zinc-700 font-bold">Our Mission</h2>
             <p className="text-black -font-bold text-base p-2 text-center">At GOOD FOOD GOOD MOOD, we aim to inspire creativity in the kitchen by sharing <br />
                 easy-to-follow recipes that are packed with flavor. From quick weeknight dinners <br />
                 to indulgent desserts, our collection covers a wide variety of cuisines and dietary preferences.</p>
                 </div>
-<div className="text-center flex-auto">
+<div className="text-center">
                 <h2 className="bg-gray-300 text-base p-3 text-zinc-700 font-bold text-left">What Yo will Find Here</h2>
                 <ul className="text-left space-y-2 p-6 list-disc list-inside">
                     <li><b>Diverse Recipes:</b> Whether you are looking for vegetarian options, gluten-free meals, or comforting classics, we have something for everyone.
