@@ -9,21 +9,21 @@ export default function images(){
                  
                     src="/img/b1.jpeg" // Path to your logo in the public folder
                     alt="pic1"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
                 
                     src="/img/b2.jpeg" // Path to your logo in the public folder
                     alt="pic2"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
                   
                     src="/img/b3.jpeg" // Path to your logo in the public folder
                     alt="pic3"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
         </div>
@@ -33,21 +33,21 @@ export default function images(){
                
                     src="/img/m1.jpeg" // Path to your logo in the public folder
                     alt="pic1"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
               
                     src="/img/m2.jpeg" // Path to your logo in the public folder
                     alt="pic2"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
                  
                     src="/img/m3.jpeg" // Path to your logo in the public folder
                     alt="pic3"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
         </div>
@@ -57,21 +57,21 @@ export default function images(){
                    
                     src="/img/g1.jpeg" // Path to your logo in the public folder
                     alt="pic1"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
              
                     src="/img/g2.jpeg" // Path to your logo in the public folder
                     alt="pic2"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
 <Image 
                 
                     src="/img/g3.jpeg" // Path to your logo in the public folder
                     alt="pic3"
-                    width={300} // Adjust the size as needed
+                    width={200} // Adjust the size as needed
                     height={100} // Adjust the size as needed 
 />
         </div>
